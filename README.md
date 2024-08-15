@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 Reach me om 9815168516 / saugatbhattarai00@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: She is cute.
+- ⚡ Fun fact: She is very cute.
 
 <!---
 saugat2003/saugat2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
