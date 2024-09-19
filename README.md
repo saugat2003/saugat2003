@@ -3,7 +3,7 @@
 - 🤖 I am a Computer Science Student.
 - 🌱 I’m currently doing Harvard CS50.
 - 💞️ I’m looking to collaborate on new projects
-- 📫 Reach me om 9815168516 / saugatbhattarai00@gmail.com
+- 📫 Reach me on 9815168516 / saugatbhattarai00@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: She is very very cute.
 
