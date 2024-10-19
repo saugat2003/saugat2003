@@ -1,6 +1,14 @@
-# 💫 About Me:
-# Hi there, I’m @saugat2003 👋<br><br>👀 **Obsessed with coding** and learning new things!  <br>🤖 **Computer Science student** on a mission to build cool stuff.  <br>🌱 Currently tackling **Harvard's CS50** (because why not, right?).  <br>💡 Always down to collaborate on **Python/Django** projects (or just talk about tech!).  <br>💞️ Let’s create something awesome together!  <br>📫 You can reach me at:    <br>📧 saugatbhattarai00@gmail.com  <br>😄 Pronouns: **He/Him**  <br>⚡ Fun fact: **she’s very, very cute** ( Yes she is very cute damn!!😆).<br><br>
+Hi there, I’m @saugat2003 👋
 
+👀 Obsessed with coding and learning new things!
+🤖 Computer Science student on a mission to build cool stuff.
+🌱 Currently tackling Harvard's CS50 (because why not, right?).
+💡 Always down to collaborate on Python/Django projects (or just talk about tech!).
+💞️ Let’s create something awesome together!
+📫 You can reach me at:
+📧 saugatbhattarai00@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: she’s very, very cute (**Yes she is very cute damn!!😆**).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saugat-bhattarai-9378822b3/) 
