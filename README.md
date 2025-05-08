@@ -1,4 +1,4 @@
-**Hi there, I’m @saugat2003 👋**  
+**Hi there, I’m @saugat2003 👋**   
 👀 Obsessed with coding and learning new things!   
 🤖 Computer Science student on a mission to build cool stuff.  
 🌱 **Harvard's CS50 is FUN !!!!!!!!!!!!!!    (TRY IT).**   
