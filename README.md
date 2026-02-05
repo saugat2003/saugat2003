@@ -1,9 +1,6 @@
-**Hi there, I’m @saugat2003 👋**   
-👀 Obsessed with coding and learning new things!   
+**Hi there, I’m @saugat2003 👋**    
 🤖 On a mission to build cool stuff.  
-🌱 **Harvard's CS50 is FUN !!!!!!!!!!!!!!(TRY IT).**    
-💞️ Let’s create something awesome together!   
-📫 You can reach me at: saugatbhattarai00@gmail.com
+🌱 Harvard's CS50 is FUN !!!!!!!!!!!!!!(TRY IT).    
 ⚡ Fun fact: she’s very, very cute (Yes she is very cute damn!!😆).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugat2003&label=Profile%20views&color=0e75b6&style=flat" alt="saugat2003" /> </p>
